@@ -163,7 +163,7 @@
             <section class="split contact">
                 <section class="alt">
                     <h3>Address</h3>
-                    <p>1234 Somewhere Road #87257<br />Nashville, TN 00000-0000</p>
+                    <p>XXX Johar, Checkpoint 01</p>
                 </section>
                 <section>
                     <h3>Email</h3>
