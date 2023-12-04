@@ -1,10 +1,70 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <title>Bhawani Lal - Electrical Engineer</title>
     <link rel="stylesheet" href="assets/css/main.css" />
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        #wrapper {
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 2em;
+            padding: 2em;
+        }
+
+        #header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
+
+        #header a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        .resume {
+            margin-top: 2em;
+        }
+
+        section {
+            margin-bottom: 1.5em;
+        }
+
+        h3 {
+            color: #333;
+            border-bottom: 2px solid #333;
+            padding-bottom: 0.5em;
+        }
+
+        p {
+            color: #555;
+        }
+
+        footer {
+            margin-top: 2em;
+        }
+
+        .contact {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .alt {
+            flex: 1;
+            margin-right: 1em;
+        }
+    </style>
     <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 </head>
 <body class="is-preload">
@@ -21,6 +81,7 @@
                 <header class="major">
                     <h2>Bhawani Lal</h2>
                     <p>PEC Registered Engineer - ELECT 93666</p>
+                    <p>Want to secure a challenging position as an Electrical Engineer, utilizing my skills, knowledge & Experience to contribute to the growth and success of the organization while continuously enhancing my technical and professional skills.</p>
                 </header>
 
                 <!-- Personal Information -->
